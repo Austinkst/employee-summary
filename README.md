@@ -1,12 +1,9 @@
-## EMPLOYEE-TRACKER
+## EMPLOYEE-SUMMARY
 
-A command-line application that allows the user to:
+A Profile Generator that runs tests against your code.
 
-Add departments, roles, employees
-
-View departments, roles, employees
-
-Update employee roles
+To run the application, first run an npm install in the terminal
+Once complete, run the program in the termimal: npm start
 
 
 
