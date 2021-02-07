@@ -1,4 +1,4 @@
-# employee-tracker# 
+## employee-tracker
 
 A command-line application that allows the user to:
 
